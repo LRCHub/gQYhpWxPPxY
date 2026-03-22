@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Sunbed Theory",
+  "base_artist": "Park Bench Club",
+  "createdAt": "2026-03-22T05:22:28.971586Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sunbed Theory",
+      "artist": "Park Bench Club",
+      "has_synced": false,
+      "path": "select/01_Sunbed_Theory_Park_Bench_Club.txt"
+    }
+  ]
+}
